@@ -1,4 +1,4 @@
-# tsed-rest
+# tsed-rest-cron
 
 ## About the project
 
